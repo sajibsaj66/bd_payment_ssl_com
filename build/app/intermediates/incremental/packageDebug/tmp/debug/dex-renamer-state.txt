@@ -1,0 +1,4 @@
+#Mon Oct 30 10:01:16 BDT 2023
+base.0=C\:\\Users\\User\\StudioProjects\\bd_payment_ssl_com\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
