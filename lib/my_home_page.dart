@@ -32,7 +32,6 @@ class _HomePageState extends State<HomePage> {
       ),
     );
   }
-
   Future<void> sslCommerzGeneralCall() async {
     Sslcommerz sslcommerz = Sslcommerz(
       initializer: SSLCommerzInitialization(
